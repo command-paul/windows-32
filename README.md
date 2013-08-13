@@ -1,7 +1,10 @@
 Open Ephys for 32-bit Windows
 =======================
 
-This repository contains a 32-bit Windows binary file for the Open Ephys GUI. It will run on 64-bit Windows as well. For the source code, see http://github.com/open-ephys/GUI.
+This repository contains a 32-bit Windows binary file for the Open Ephys GUI. It will run on 64-bit Windows as well. However, the Opal Kelly drivers necessary to use the Open Ephys acquisition board or Intan RHD2000 evaluation board aren't
+compatible with Windows 8. Don't you just love Windows?
+
+For the source code, see http://github.com/open-ephys/GUI.
 
 This software is still being developed, so we can't guarantee that anything will work as expected. Don't use it for mission-critical data acquisition unless you've thoroughly tested all the features you'll need.
 
@@ -14,7 +17,7 @@ Otherwise, you'll have to manually download the software (or build it from sourc
 
 2. Drag the "linux-64-master" (downloaded version) to the location of your choice and rename it "Open Ephys." If you used GitHub for Windows to clone the repository, we recommend leaving it in the "GitHub" folder.
 
-3. Run the "FrontPanelUSB-DriverOnly-Win-x4.0.8" application to install the Opal Kelly drivers. This step is optional if you won't be using the GUI with the Open Ephys acquisition board or Intan RHD2000 eval board.
+3. Run the "FrontPanelUSB-DriverOnly-Win-x4.0.8" application to install the Opal Kelly drivers (which don't work on Windows 8). This step is optional if you won't be using the GUI with the Open Ephys acquisition board or Intan RHD2000 eval board.
 
 4. Double-click the "open-ephys" application file to run the software.
 

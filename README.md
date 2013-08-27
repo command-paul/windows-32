@@ -12,10 +12,10 @@ Installation instructions
 -------------------------------
 
 1. Download the files from http://open-ephys.org/gui. Or, if you have the [Windows GitHub client](http://windows.github.com/) installed on your machine, you can use the "Clone in Desktop" button on
-[this page](https://github.com/open-ephys-GUI-binaries/linux-64). The advantage of cloning is that you'll be able to easily keep track of any updates by periodically syncing with the master branch. 
+[this page](https://github.com/open-ephys-GUI-binaries/windows-32). The advantage of cloning is that you'll be able to easily keep track of any updates by periodically syncing with the master branch. 
 Otherwise, you'll have to manually download the software (or build it from source) whenever something changes.
 
-2. Drag the "linux-64-master" (downloaded version) to the location of your choice and rename it "Open Ephys." If you used GitHub for Windows to clone the repository, we recommend leaving it in the "GitHub" folder.
+2. Drag the "windows-32-master" (downloaded version) to the location of your choice and rename it "Open Ephys." If you used GitHub for Windows to clone the repository, we recommend leaving it in the "GitHub" folder.
 
 3. Run the "FrontPanelUSB-DriverOnly-Win-x4.0.8" application to install the Opal Kelly drivers (which don't work on Windows 8). This step is optional if you won't be using the GUI with the Open Ephys acquisition board or Intan RHD2000 eval board.
 

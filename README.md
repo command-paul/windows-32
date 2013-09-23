@@ -4,7 +4,7 @@ Open Ephys for 32-bit Windows
 This repository contains a 32-bit Windows binary file for the Open Ephys GUI. It will run on 64-bit Windows as well. However, the Opal Kelly drivers necessary to use the Open Ephys acquisition board or Intan RHD2000 evaluation board aren't
 compatible with Windows 8. Don't you just love Windows?
 
-For the source code, see http://github.com/open-ephys/GUI.
+Binaries will be uploaded every Sunday night. For the source code, see http://github.com/open-ephys/GUI.
 
 This software is still being developed, so we can't guarantee that anything will work as expected. Don't use it for mission-critical data acquisition unless you've thoroughly tested all the features you'll need.
 
@@ -30,3 +30,4 @@ If you run into problems
 
 3. As a last resort, [get in touch with us directly](http://open-ephys.org/contact)
 
+To show the debug console just start the GUI with --console as parameter

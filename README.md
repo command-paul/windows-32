@@ -24,7 +24,7 @@ Otherwise, you'll have to manually download the software (or build it from sourc
 If you run into problems
 -------------------------------
 
-1. READ THE [GUI WIKI](https://github.com/open-ephys/GUI/wiki). There's a lot of useful information on the "Tutorial" and "User documentation" pages.
+1. READ THE [GUI WIKI](https://open-ephys.atlassian.net/wiki/display/OEW/Open+Ephys+GUI). There's a lot of useful information on the "Tutorial" and "User documentation" pages.
 
 2. If you can consistently replicate the problem, [submit an issue](https://github.com/open-ephys/GUI/issues). You'll need a GitHub account for this, but it's worth signing up for one anyway.
 

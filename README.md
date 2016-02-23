@@ -1,4 +1,4 @@
-Open Ephys for 32-bit Windows
+Open Ephys for IMEC Phase III Probes
 =======================
 
 This repository contains a 32-bit Windows binary file for the Open Ephys GUI, modified to work with IMEC Neuropix probes. It will run on 64-bit Windows as well.

@@ -10,7 +10,7 @@ This software is still being developed, so we can't guarantee that anything will
 Installation instructions
 -------------------------------
 
-1. Use the "Clone in Desktop" button (if you have [Windows GitHub client](http://windows.github.com/) install) or "Download ZIP" button on
+1. Use the "Clone in Desktop" button (if you have [Windows GitHub client](http://windows.github.com/) installed) or the "Download ZIP" button on
 [this page](https://github.com/open-ephys-GUI-binaries/windows-32/tree/neuropix) to get the files. The advantage of cloning is that you'll be able to easily keep track of any updates by periodically syncing with the neuropix branch. 
 Otherwise, you'll have to manually download the software (or build it from source) whenever something changes.
 
